@@ -28,3 +28,6 @@ $ python -m unittest discover -s app/core/tests/
 ```bash
 $ flake8  --exclude venv
 ```
+### You can see the documentation of the api in the following path
+http://host:8000/docs
+![image](https://user-images.githubusercontent.com/50085428/223954520-32392d34-a615-40d7-a373-77867c2b1f92.png)
